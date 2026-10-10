@@ -1,0 +1,3 @@
+Subject: URGENT: Production server down after billing error!
+From: Sarah Jenkins <sarah@acme-corp.io>
+Message: Hi Support, our main payment processing microservice crashed with error code ERR_STRIPE_503 right after your system tried to auto-renew our enterprise subscription. We are losing transactions by the minute! Please fix this immediately or escalate to a manager.
